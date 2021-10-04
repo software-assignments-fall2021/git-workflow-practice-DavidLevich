@@ -1,6 +1,9 @@
 # The Pandemic's Impact on Software Development
 By David Iosilevich (di492)
 
+## Sunny Dhindsa (sd3692). 
+_Sunny's (sd3692) edits: I found this article really interesting because it was cool to see how the workplace is really evolving with the pandemic. I think the pandemic showed us that a lot of traditional models of work are not necesary, especially for many fields such as SWE. I did my entire SWE internship at home, and while I missed some in person events, overall I found myself incredibly productive from a work standpoint. This article had interesting perspectives from people in different areas of their careers and I liked reading about their unique point of views!_
+
 ### Software Engineering (474)
 I chose this article: https://www.zdnet.com/article/coding-is-a-team-sport-but-developers-are-divided-on-working-from-home/
 
