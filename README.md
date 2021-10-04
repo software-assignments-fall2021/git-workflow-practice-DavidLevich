@@ -1,2 +1,10 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# The Pandemic's Impact on Software Development
+By David Iosilevich (di492)
+
+## Sunny Dhindsa (sd3692). 
+_Sunny's (sd3692) edits: I found this article really interesting because it was cool to see how the workplace is really evolving with the pandemic. I think the pandemic showed us that a lot of traditional models of work are not necesary, especially for many fields such as SWE. I did my entire SWE internship at home, and while I missed some in person events, overall I found myself incredibly productive from a work standpoint. This article had interesting perspectives from people in different areas of their careers and I liked reading about their unique point of views!_
+
+### Software Engineering (474)
+I chose this article: https://www.zdnet.com/article/coding-is-a-team-sport-but-developers-are-divided-on-working-from-home/
+
+I find this article to be important, for both programmers and non-programmers alike, given that the pandemic has significantly changed our lives in the past year and a half. As many jobs, schooling, and activities transitioned to online, software once again became a priority for many firms and institutions - entirely new environments and systems had to be rebuilt, or built from scratch, to accomodate everyone. To do so, software developers have had to change their work environments, habits, and lifestyle as a whole. The article presents the different perspectives expressed by developers regarding the shift to working-from-home policies. Most developers had shown negative reactions, given the collaborative nature of software development, as members of teams could not as easily meet and discuss or fix changes and issues they faced. Interestingly, these reactions differed among age groups, with the majority of younger developers saying that the pandemic had impacted their jobs, while only half of older developers had expressed the same. Moreover, the article discusses how COVID-19 has affected mental health among developers, emphasizing the need to combat higher levels of stress along with implementing a healthier work-life balance. Although short, this article throughly helps anyone to understand the significance of changing work environments for software engineering.
